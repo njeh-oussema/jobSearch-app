@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971492083747",
+    "project_id": "i-job-clone-app-eb371",
+    "storage_bucket": "i-job-clone-app-eb371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971492083747:android:46ca548fe752e1a2ab4996",
+        "android_client_info": {
+          "package_name": "oussema.frontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971492083747-j9a9q8l1veq0jf94ncr0s9lcms4d65ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk1GfRPRCnR9Jma55QYICb0_quUFWiA70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971492083747-j9a9q8l1veq0jf94ncr0s9lcms4d65ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

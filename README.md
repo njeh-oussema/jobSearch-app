@@ -9,10 +9,10 @@ of their needs and possibly photos of issues to be resolved.
 # Features
 
    # User Registration and Authentication
-       Users can create an account and log in to the application.
+        Users can create an account and log in to the application.
         User authentication and authorization mechanisms are implemented to ensure secure access.
   # Customer Job Posting
-           Users (customers) can post job requests with the following details:
+        Users (customers) can post job requests with the following details:
         Sector: The industry or field of the job.
         Title: The title or position of the job.
         Description: A detailed description of the job requirements and responsibilities.

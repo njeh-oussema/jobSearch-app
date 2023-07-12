@@ -35,7 +35,7 @@ of their needs and possibly photos of issues to be resolved.
         Users can initiate a chat with the job poster or the person who sent an offer.
         Messages are organized in chat threads for easy reference.
         Users can view their message history and continue conversations.
-    # Profile Page
+   # Profile Page
         Users can access their profile page to view and manage their information.
         Experience Section:
         Users can list their past projects or work experience.

@@ -1,12 +1,12 @@
 # job application
 
-A new Flutter project.
-
-## Getting Started
 This project is a mobile application that works like a
 virtual market, connecting workers with service seekers
 as customers, can easily post work requests, providing specific details
 of their needs and possibly photos of issues to be resolved.
+
+## Features
+
 
 
 

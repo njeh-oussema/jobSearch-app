@@ -47,7 +47,7 @@ of their needs and possibly photos of issues to be resolved.
 ![Header](./add.png)
 ![Header](./detail.png)
 ![Header](./comments.png)
-![Header](./edit_comment.png)
+![Header](./editcomm.png)
 ![Header](./deposer_offre.png)
 
 

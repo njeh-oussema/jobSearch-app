@@ -55,6 +55,8 @@ of their needs and possibly photos of issues to be resolved.
 ![Header](./edit_profile.png)
 ![Header](./mesdemande.png)
 ![Header](./offre.png)
+![Header](./chat.png)
+![Header](./chat1.png)
 
 
 

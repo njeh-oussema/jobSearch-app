@@ -41,10 +41,8 @@ of their needs and possibly photos of issues to be resolved.
         Rating Section:
         Other users can rate the profile of the job poster.
 # Screenshots
-![Header](./sign_up.png)
-![Header](./login.png)
-![Header](./acceuil.png)
-![Header](./acc2.png)
+![Header](./sign_up.png)![Header](./login.png)
+![Header](./acceuil.png)![Header](./acc2.png)
 ![Header](./search_job.png)
 
 

@@ -43,6 +43,10 @@ of their needs and possibly photos of issues to be resolved.
 # Screenshots
 ![Header](./sign_up.png)
 ![Header](./login.png)
+![Header](./acceuil.png)
+![Header](./acc2.png)
+![Header](./search_job.png)
+
 
 
 

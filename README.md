@@ -46,7 +46,7 @@ of their needs and possibly photos of issues to be resolved.
 ![Header](./acceuil.png)![Header](./acc2.png)![Header](./search_job.png)
 ![Header](./add.png)
 ![Header](./detail.png)
-![Header](./comment.png)
+![Header](./comments.png)
 ![Header](./edit_comment.png)
 ![Header](./deposer_offre.png)
 

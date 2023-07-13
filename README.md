@@ -42,7 +42,7 @@ of their needs and possibly photos of issues to be resolved.
         Other users can rate the profile of the job poster.
 # Screenshots
 
-![Uploading image.png…]()
+
 
 
 # Feedback
